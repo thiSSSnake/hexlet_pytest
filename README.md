@@ -1,0 +1,1 @@
+[![hello-world](https://github.com/thiSSSnake/hexlet_pytest/actions/workflows/hello_world.yml/badge.svg)](https://github.com/thiSSSnake/hexlet_pytest/actions/workflows/hello_world.yml)
